@@ -1,1 +1,0 @@
-# fama_french_factor_portfolios_quantopian
